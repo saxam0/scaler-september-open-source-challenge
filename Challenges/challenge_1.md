@@ -11,8 +11,12 @@ Create a [new issue](https://github.com/scaleracademy/scaler-september-open-sour
 We will start off with an easy task. 
 
 Task: 
+<<<<<<< HEAD
 Create a (new issue)[https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/new] on this repository with the following details to be added to the content of the issue: 
 >>>>>>> d84c75e (Update challenge_1.md)
+=======
+Create a [new issue](https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/new) on this repository with the following details to be added to the content of the issue: 
+>>>>>>> 81eb74d (Update challenge_1.md)
 
 ```
 name: Add your name here
